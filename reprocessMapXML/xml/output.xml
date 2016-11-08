@@ -1,0 +1,5098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+  <way id="10567783">
+    <nd ref="86841213"/>
+    <nd ref="1439718270"/>
+    <nd ref="86841214"/>
+    <nd ref="86841216"/>
+    <nd ref="86841217"/>
+    <nd ref="4141535387"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="164024490">
+    <nd ref="1756857681"/>
+    <nd ref="1756857714"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="10567782">
+    <nd ref="86841212"/>
+    <nd ref="86841213"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="10567791">
+    <nd ref="1439720068"/>
+    <nd ref="2891285659"/>
+    <nd ref="91487841"/>
+    <nd ref="1448514623"/>
+    <nd ref="1448514622"/>
+    <nd ref="1448514620"/>
+    <nd ref="3015041442"/>
+    <nd ref="2981086633"/>
+    <nd ref="1448514615"/>
+    <nd ref="1439719917"/>
+    <nd ref="1439719915"/>
+    <nd ref="1439719912"/>
+    <nd ref="1439719756"/>
+    <nd ref="1439719753"/>
+    <nd ref="3015041441"/>
+    <nd ref="1439719646"/>
+    <nd ref="1135676852"/>
+    <nd ref="4055188643"/>
+    <nd ref="4055188642"/>
+    <nd ref="1448514609"/>
+    <nd ref="1439719616"/>
+    <nd ref="1439719572"/>
+    <nd ref="91487773"/>
+    <nd ref="3015041440"/>
+    <nd ref="1439719422"/>
+    <nd ref="1439719411"/>
+    <nd ref="1439719403"/>
+    <nd ref="1439719324"/>
+    <nd ref="4079512087"/>
+    <nd ref="1448514605"/>
+    <nd ref="849563064"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="10567790">
+    <nd ref="4141536092"/>
+    <nd ref="91487678"/>
+    <nd ref="1439719606"/>
+    <nd ref="1135676855"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="68523383">
+    <nd ref="824063651"/>
+    <nd ref="3751653139"/>
+    <nd ref="1439718175"/>
+    <nd ref="1439717891"/>
+    <nd ref="1108235257"/>
+    <nd ref="1439717872"/>
+    <nd ref="1439717839"/>
+    <nd ref="824063624"/>
+    <nd ref="1439717732"/>
+    <nd ref="824063564"/>
+    <nd ref="1439717715"/>
+    <nd ref="1439717668"/>
+    <nd ref="824063633"/>
+    <nd ref="1448660739"/>
+    <nd ref="824063562"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98150996">
+    <nd ref="86841218"/>
+    <nd ref="1135676859"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98150999">
+    <nd ref="812699845"/>
+    <nd ref="812699847"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98151004">
+    <nd ref="814568018"/>
+    <nd ref="814568070"/>
+    <nd ref="814568031"/>
+    <nd ref="4055188642"/>
+    <nd ref="4055188644"/>
+    <nd ref="814568036"/>
+    <nd ref="814567991"/>
+    <nd ref="814568045"/>
+    <nd ref="814567998"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="67476739">
+    <nd ref="814568018"/>
+    <nd ref="1135676875"/>
+    <nd ref="4141536089"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98151003">
+    <nd ref="4141535386"/>
+    <nd ref="895492307"/>
+    <nd ref="895492309"/>
+    <nd ref="1538900402"/>
+    <nd ref="1439718731"/>
+    <nd ref="895492312"/>
+    <nd ref="895492313"/>
+    <nd ref="895492315"/>
+    <nd ref="1439718265"/>
+    <nd ref="895492317"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799671">
+    <nd ref="1439718336"/>
+    <nd ref="1439718328"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799684">
+    <nd ref="1439719859"/>
+    <nd ref="1439719831"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799685">
+    <nd ref="1439718867"/>
+    <nd ref="1439718840"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799700">
+    <nd ref="1439719554"/>
+    <nd ref="1439719514"/>
+    <nd ref="1439719504"/>
+    <nd ref="1439719503"/>
+    <nd ref="1439719500"/>
+    <nd ref="1439719485"/>
+    <nd ref="1439719454"/>
+    <nd ref="1439719424"/>
+    <nd ref="1439719407"/>
+    <nd ref="1439719384"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799702">
+    <nd ref="1439719181"/>
+    <nd ref="1439719221"/>
+    <nd ref="1439719275"/>
+    <nd ref="1439719282"/>
+    <nd ref="1439719287"/>
+    <nd ref="1439719263"/>
+    <nd ref="1439719245"/>
+    <nd ref="1439719161"/>
+    <nd ref="1439719151"/>
+    <nd ref="1439719170"/>
+    <nd ref="1439719181"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799704">
+    <nd ref="1439718973"/>
+    <nd ref="1439718986"/>
+    <nd ref="1439718998"/>
+    <nd ref="1439719002"/>
+    <nd ref="1439718992"/>
+    <nd ref="1439718979"/>
+    <nd ref="1439718964"/>
+    <nd ref="1439718951"/>
+    <nd ref="1439718945"/>
+    <nd ref="1439718946"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799705">
+    <nd ref="1439718483"/>
+    <nd ref="1439718513"/>
+    <nd ref="1439718543"/>
+    <nd ref="1439718550"/>
+    <nd ref="1439718599"/>
+    <nd ref="1439718579"/>
+    <nd ref="1439718533"/>
+    <nd ref="1439718530"/>
+    <nd ref="1439718498"/>
+    <nd ref="1439718511"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799708">
+    <nd ref="1439719750"/>
+    <nd ref="1439719757"/>
+    <nd ref="1439719795"/>
+    <nd ref="1439719794"/>
+    <nd ref="1439719752"/>
+    <nd ref="1439719625"/>
+    <nd ref="1439719619"/>
+    <nd ref="1439719613"/>
+    <nd ref="1439719559"/>
+    <nd ref="1439719579"/>
+    <nd ref="1439719655"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799718">
+    <nd ref="1439719518"/>
+    <nd ref="1439719519"/>
+    <nd ref="1439719517"/>
+    <nd ref="1439719523"/>
+    <nd ref="1439719534"/>
+    <nd ref="1439719546"/>
+    <nd ref="1439719568"/>
+    <nd ref="1439719578"/>
+    <nd ref="1439719586"/>
+    <nd ref="1439719587"/>
+    <nd ref="1439719595"/>
+    <nd ref="1439719660"/>
+    <nd ref="1439719714"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799724">
+    <nd ref="1439719315"/>
+    <nd ref="1439719333"/>
+    <nd ref="1439719358"/>
+    <nd ref="1439719364"/>
+    <nd ref="1439719365"/>
+    <nd ref="1439719362"/>
+    <nd ref="1439719348"/>
+    <nd ref="1439719346"/>
+    <nd ref="1439719344"/>
+    <nd ref="1439719329"/>
+    <nd ref="1439719314"/>
+    <nd ref="1439719303"/>
+    <nd ref="1439719297"/>
+    <nd ref="1439719282"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799727">
+    <nd ref="1439717938"/>
+    <nd ref="1439717947"/>
+    <nd ref="1439717964"/>
+    <nd ref="1439717969"/>
+    <nd ref="1439717983"/>
+    <nd ref="1439718036"/>
+    <nd ref="1439718031"/>
+    <nd ref="1439718013"/>
+    <nd ref="1439718004"/>
+    <nd ref="1439717966"/>
+    <nd ref="1439717921"/>
+    <nd ref="1439717912"/>
+    <nd ref="1439717905"/>
+    <nd ref="1439717894"/>
+    <nd ref="1439717886"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799728">
+    <nd ref="1439719545"/>
+    <nd ref="1439719518"/>
+    <nd ref="1439719467"/>
+    <nd ref="1439719452"/>
+    <nd ref="1439719448"/>
+    <nd ref="1439719438"/>
+    <nd ref="1439719434"/>
+    <nd ref="1439719430"/>
+    <nd ref="1439719419"/>
+    <nd ref="1439719377"/>
+    <nd ref="1439719380"/>
+    <nd ref="1439719390"/>
+    <nd ref="1439719398"/>
+    <nd ref="1439719408"/>
+    <nd ref="1439719418"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799732">
+    <nd ref="1439719964"/>
+    <nd ref="1439719959"/>
+    <nd ref="1439719944"/>
+    <nd ref="1439719890"/>
+    <nd ref="1439719882"/>
+    <nd ref="1439719877"/>
+    <nd ref="1439719845"/>
+    <nd ref="1439719839"/>
+    <nd ref="1439719842"/>
+    <nd ref="1439719870"/>
+    <nd ref="1439719886"/>
+    <nd ref="1439719892"/>
+    <nd ref="1439719904"/>
+    <nd ref="1439719985"/>
+    <nd ref="1439719978"/>
+    <nd ref="1439719964"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799736">
+    <nd ref="1439718988"/>
+    <nd ref="1439718978"/>
+    <nd ref="1439718950"/>
+    <nd ref="1439718931"/>
+    <nd ref="1439718922"/>
+    <nd ref="1439718918"/>
+    <nd ref="1439718930"/>
+    <nd ref="1439718948"/>
+    <nd ref="1439718961"/>
+    <nd ref="1439718977"/>
+    <nd ref="1439719001"/>
+    <nd ref="1439719044"/>
+    <nd ref="1439719086"/>
+    <nd ref="1439719115"/>
+    <nd ref="1439719152"/>
+    <nd ref="1439719189"/>
+    <nd ref="1439719243"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799737">
+    <nd ref="1439719686"/>
+    <nd ref="1439719692"/>
+    <nd ref="1439719711"/>
+    <nd ref="1439719722"/>
+    <nd ref="1439719743"/>
+    <nd ref="1439719751"/>
+    <nd ref="1439719759"/>
+    <nd ref="1439719773"/>
+    <nd ref="1439719776"/>
+    <nd ref="1439719793"/>
+    <nd ref="1439719774"/>
+    <nd ref="1439719771"/>
+    <nd ref="1439719762"/>
+    <nd ref="1439719737"/>
+    <nd ref="1439719729"/>
+    <nd ref="1439719724"/>
+    <nd ref="1439719709"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799738">
+    <nd ref="1439719268"/>
+    <nd ref="1439719254"/>
+    <nd ref="1439719231"/>
+    <nd ref="1439719205"/>
+    <nd ref="1439719172"/>
+    <nd ref="1439719140"/>
+    <nd ref="1439719089"/>
+    <nd ref="1439719070"/>
+    <nd ref="1439719019"/>
+    <nd ref="1439719009"/>
+    <nd ref="1439718997"/>
+    <nd ref="1439718993"/>
+    <nd ref="1439718990"/>
+    <nd ref="1439718994"/>
+    <nd ref="1439718999"/>
+    <nd ref="1439719034"/>
+    <nd ref="1439719074"/>
+    <nd ref="1439719109"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799741">
+    <nd ref="1439718968"/>
+    <nd ref="1439719010"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799747">
+    <nd ref="1439718650"/>
+    <nd ref="1439718568"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799748">
+    <nd ref="1439719936"/>
+    <nd ref="1439719890"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799752">
+    <nd ref="1439718512"/>
+    <nd ref="1439718500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799753">
+    <nd ref="1439719874"/>
+    <nd ref="1439719882"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799758">
+    <nd ref="1439718367"/>
+    <nd ref="1439718353"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799759">
+    <nd ref="1439719284"/>
+    <nd ref="1439719313"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799760">
+    <nd ref="1439719436"/>
+    <nd ref="1439719485"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799761">
+    <nd ref="1439718764"/>
+    <nd ref="1439718806"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799764">
+    <nd ref="1439717947"/>
+    <nd ref="1439718004"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799765">
+    <nd ref="1439718497"/>
+    <nd ref="1439718529"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799766">
+    <nd ref="1439719120"/>
+    <nd ref="1439719078"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799768">
+    <nd ref="1439718811"/>
+    <nd ref="1439718838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799769">
+    <nd ref="1439719165"/>
+    <nd ref="1439719217"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799772">
+    <nd ref="1439718487"/>
+    <nd ref="1439718501"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799775">
+    <nd ref="1439719688"/>
+    <nd ref="1439719642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799778">
+    <nd ref="1439718689"/>
+    <nd ref="1439718710"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799781">
+    <nd ref="1439718565"/>
+    <nd ref="1439718601"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799782">
+    <nd ref="1439718692"/>
+    <nd ref="1439718543"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799783">
+    <nd ref="1439719099"/>
+    <nd ref="1439719052"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799784">
+    <nd ref="1439718889"/>
+    <nd ref="1439718919"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799786">
+    <nd ref="1439719511"/>
+    <nd ref="1439719541"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799788">
+    <nd ref="1439719375"/>
+    <nd ref="1439719383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799791">
+    <nd ref="1439719536"/>
+    <nd ref="1439719549"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799795">
+    <nd ref="1439719708"/>
+    <nd ref="1439719757"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799740">
+    <nd ref="1439719148"/>
+    <nd ref="1439719107"/>
+    <nd ref="1439719100"/>
+    <nd ref="1439719091"/>
+    <nd ref="1439719090"/>
+    <nd ref="1439719097"/>
+    <nd ref="1439719110"/>
+    <nd ref="1439719155"/>
+    <nd ref="1439719239"/>
+    <nd ref="1439719250"/>
+    <nd ref="1439719257"/>
+    <nd ref="1439719261"/>
+    <nd ref="1439719272"/>
+    <nd ref="1439719264"/>
+    <nd ref="1439719251"/>
+    <nd ref="1439719233"/>
+    <nd ref="1439719203"/>
+    <nd ref="1439719160"/>
+    <nd ref="1439719100"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799754">
+    <nd ref="1439719312"/>
+    <nd ref="1439719261"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799743">
+    <nd ref="1439719002"/>
+    <nd ref="2741861621"/>
+    <nd ref="1439719082"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799770">
+    <nd ref="1439719026"/>
+    <nd ref="2870577396"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799734">
+    <nd ref="1439719493"/>
+    <nd ref="1439719496"/>
+    <nd ref="2870611716"/>
+    <nd ref="2870611715"/>
+    <nd ref="1439719509"/>
+    <nd ref="1439719539"/>
+    <nd ref="1439719599"/>
+    <nd ref="1439719621"/>
+    <nd ref="1439719638"/>
+    <nd ref="1439719664"/>
+    <nd ref="1439719690"/>
+    <nd ref="1439719707"/>
+    <nd ref="1439719723"/>
+    <nd ref="1439719725"/>
+    <nd ref="1439719721"/>
+    <nd ref="1439719720"/>
+    <nd ref="1439719701"/>
+    <nd ref="1439719674"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799742">
+    <nd ref="1439719752"/>
+    <nd ref="2870596993"/>
+    <nd ref="1439719696"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799706">
+    <nd ref="1439719560"/>
+    <nd ref="1439719542"/>
+    <nd ref="1439719432"/>
+    <nd ref="1439719322"/>
+    <nd ref="1439719311"/>
+    <nd ref="1439719295"/>
+    <nd ref="2871649815"/>
+    <nd ref="2871649821"/>
+    <nd ref="2871649822"/>
+    <nd ref="1439718980"/>
+    <nd ref="2871649823"/>
+    <nd ref="1439718953"/>
+    <nd ref="1439718947"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799756">
+    <nd ref="1439718617"/>
+    <nd ref="1439718688"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799750">
+    <nd ref="1439718674"/>
+    <nd ref="2917174316"/>
+    <nd ref="1439718802"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799723">
+    <nd ref="1439718547"/>
+    <nd ref="1439718564"/>
+    <nd ref="1439718664"/>
+    <nd ref="1439718699"/>
+    <nd ref="1439718706"/>
+    <nd ref="1439718743"/>
+    <nd ref="1439718827"/>
+    <nd ref="1439718845"/>
+    <nd ref="1439718860"/>
+    <nd ref="2901188632"/>
+    <nd ref="1439718940"/>
+    <nd ref="1439719125"/>
+    <nd ref="1439719215"/>
+    <nd ref="1439719230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799713">
+    <nd ref="1439718501"/>
+    <nd ref="1439718510"/>
+    <nd ref="2987374932"/>
+    <nd ref="1439718593"/>
+    <nd ref="2837144651"/>
+    <nd ref="1439718677"/>
+    <nd ref="2885050146"/>
+    <nd ref="1439718719"/>
+    <nd ref="1439718734"/>
+    <nd ref="1439718796"/>
+    <nd ref="1439718815"/>
+    <nd ref="1439718827"/>
+    <nd ref="1439718849"/>
+    <nd ref="1439718850"/>
+    <nd ref="1439718855"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799777">
+    <nd ref="1439719374"/>
+    <nd ref="1439719352"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799793">
+    <nd ref="1439719302"/>
+    <nd ref="1439719338"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799746">
+    <nd ref="1439719764"/>
+    <nd ref="3016195586"/>
+    <nd ref="3016195587"/>
+    <nd ref="1439719572"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799693">
+    <nd ref="1439717842"/>
+    <nd ref="1439717869"/>
+    <nd ref="822483267"/>
+    <nd ref="1439717904"/>
+    <nd ref="1439717943"/>
+    <nd ref="1439717958"/>
+    <nd ref="1756857681"/>
+    <nd ref="1439717985"/>
+    <nd ref="1439718015"/>
+    <nd ref="822483266"/>
+    <nd ref="1439718050"/>
+    <nd ref="1439718057"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799725">
+    <nd ref="1141239820"/>
+    <nd ref="1439720200"/>
+    <nd ref="3274062031"/>
+    <nd ref="1439720140"/>
+    <nd ref="1439720107"/>
+    <nd ref="1439720053"/>
+    <nd ref="1439720049"/>
+    <nd ref="1439719997"/>
+    <nd ref="1439719953"/>
+    <nd ref="1439719874"/>
+    <nd ref="1439719836"/>
+    <nd ref="1439719830"/>
+    <nd ref="1439719825"/>
+    <nd ref="1439719822"/>
+    <nd ref="1439719796"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799796">
+    <nd ref="1439719557"/>
+    <nd ref="1439719589"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799701">
+    <nd ref="1439719372"/>
+    <nd ref="1439719305"/>
+    <nd ref="1439719163"/>
+    <nd ref="1439719149"/>
+    <nd ref="1439719063"/>
+    <nd ref="1439718975"/>
+    <nd ref="1439718957"/>
+    <nd ref="1439718938"/>
+    <nd ref="1439718875"/>
+    <nd ref="1439718830"/>
+    <nd ref="1439718875"/>
+    <nd ref="1439718957"/>
+    <nd ref="1439719372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799798">
+    <nd ref="1439719280"/>
+    <nd ref="1439719219"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799801">
+    <nd ref="1439719661"/>
+    <nd ref="1439719641"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799802">
+    <nd ref="1439719383"/>
+    <nd ref="1439719421"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799730">
+    <nd ref="1439718619"/>
+    <nd ref="2837178675"/>
+    <nd ref="1439718596"/>
+    <nd ref="2837178663"/>
+    <nd ref="1439718538"/>
+    <nd ref="1439718530"/>
+    <nd ref="1439718521"/>
+    <nd ref="1439718488"/>
+    <nd ref="1439718463"/>
+    <nd ref="1439718441"/>
+    <nd ref="1439718428"/>
+    <nd ref="1439718420"/>
+    <nd ref="1439718412"/>
+    <nd ref="1439718351"/>
+    <nd ref="2835257215"/>
+    <nd ref="2837207757"/>
+    <nd ref="1439718281"/>
+    <nd ref="1439718236"/>
+    <nd ref="2955372544"/>
+    <nd ref="2837207767"/>
+    <nd ref="1439718131"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799803">
+    <nd ref="1439719102"/>
+    <nd ref="1439719170"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799806">
+    <nd ref="1439719491"/>
+    <nd ref="1439719506"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799808">
+    <nd ref="1439719343"/>
+    <nd ref="1439719321"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799898">
+    <nd ref="1439718675"/>
+    <nd ref="1439718691"/>
+    <nd ref="1439718799"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799815">
+    <nd ref="1439718722"/>
+    <nd ref="1439718727"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799817">
+    <nd ref="1439718517"/>
+    <nd ref="1439718541"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799821">
+    <nd ref="1439719562"/>
+    <nd ref="1439719526"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799822">
+    <nd ref="1439719770"/>
+    <nd ref="1439719781"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799824">
+    <nd ref="1439719420"/>
+    <nd ref="1439719401"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799825">
+    <nd ref="1439718865"/>
+    <nd ref="1439718894"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799827">
+    <nd ref="1439719285"/>
+    <nd ref="1439719299"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799828">
+    <nd ref="1439719877"/>
+    <nd ref="1439719911"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799829">
+    <nd ref="1439718870"/>
+    <nd ref="1439718898"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799830">
+    <nd ref="1439718523"/>
+    <nd ref="1439718547"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799831">
+    <nd ref="1439719440"/>
+    <nd ref="1439719420"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799833">
+    <nd ref="1439718947"/>
+    <nd ref="1439718896"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799835">
+    <nd ref="1439719680"/>
+    <nd ref="1439719675"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799810">
+    <nd ref="1439719833"/>
+    <nd ref="1439719874"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799840">
+    <nd ref="1439719393"/>
+    <nd ref="1439719372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799843">
+    <nd ref="1439719799"/>
+    <nd ref="1439719801"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799844">
+    <nd ref="1439718414"/>
+    <nd ref="1439718406"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799845">
+    <nd ref="1439719579"/>
+    <nd ref="1439719541"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799846">
+    <nd ref="1439719358"/>
+    <nd ref="1439719373"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799819">
+    <nd ref="4152166571"/>
+    <nd ref="1439718435"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799852">
+    <nd ref="1439719432"/>
+    <nd ref="1439719470"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799856">
+    <nd ref="1439718932"/>
+    <nd ref="1439718959"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799859">
+    <nd ref="1439719329"/>
+    <nd ref="1439719323"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799864">
+    <nd ref="1439718787"/>
+    <nd ref="1439718798"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799865">
+    <nd ref="1439718786"/>
+    <nd ref="1439718766"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799867">
+    <nd ref="1439719525"/>
+    <nd ref="1439719576"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799870">
+    <nd ref="1439718595"/>
+    <nd ref="1439718615"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799872">
+    <nd ref="1439719219"/>
+    <nd ref="1439719153"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799880">
+    <nd ref="1439719299"/>
+    <nd ref="1439719300"/>
+    <nd ref="1439719311"/>
+    <nd ref="1439719316"/>
+    <nd ref="1439719330"/>
+    <nd ref="1439719373"/>
+    <nd ref="1439719444"/>
+    <nd ref="1439719447"/>
+    <nd ref="1439719457"/>
+    <nd ref="1439719460"/>
+    <nd ref="1439719466"/>
+    <nd ref="1439719461"/>
+    <nd ref="1439719450"/>
+    <nd ref="1439719449"/>
+    <nd ref="1439719446"/>
+    <nd ref="1439719443"/>
+    <nd ref="1439719433"/>
+    <nd ref="1439719429"/>
+    <nd ref="1439719415"/>
+    <nd ref="1439719387"/>
+    <nd ref="1439719366"/>
+    <nd ref="1439719353"/>
+    <nd ref="1439719349"/>
+    <nd ref="1439719343"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799885">
+    <nd ref="1439719540"/>
+    <nd ref="1439719589"/>
+    <nd ref="1439719658"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799889">
+    <nd ref="1439720003"/>
+    <nd ref="1439719991"/>
+    <nd ref="1439719887"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799891">
+    <nd ref="1439718744"/>
+    <nd ref="1439718764"/>
+    <nd ref="1439718782"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799896">
+    <nd ref="1439718830"/>
+    <nd ref="1439718812"/>
+    <nd ref="1439718777"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799902">
+    <nd ref="1439718481"/>
+    <nd ref="1439718514"/>
+    <nd ref="1439718549"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799903">
+    <nd ref="1439719582"/>
+    <nd ref="1439719540"/>
+    <nd ref="1439719508"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799904">
+    <nd ref="1439718734"/>
+    <nd ref="1439718822"/>
+    <nd ref="1439718856"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799905">
+    <nd ref="1439719139"/>
+    <nd ref="1439719116"/>
+    <nd ref="1439719099"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799906">
+    <nd ref="1439718861"/>
+    <nd ref="1439718871"/>
+    <nd ref="1439718884"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799907">
+    <nd ref="1439718919"/>
+    <nd ref="1439718948"/>
+    <nd ref="1439719009"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799909">
+    <nd ref="1439719205"/>
+    <nd ref="1439719243"/>
+    <nd ref="1439719266"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799910">
+    <nd ref="1439719984"/>
+    <nd ref="1439719968"/>
+    <nd ref="1439719953"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799913">
+    <nd ref="1439718838"/>
+    <nd ref="1439718841"/>
+    <nd ref="1439718844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799914">
+    <nd ref="1439718550"/>
+    <nd ref="1439718491"/>
+    <nd ref="1439718533"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799918">
+    <nd ref="1439719276"/>
+    <nd ref="1439719292"/>
+    <nd ref="1439719305"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799920">
+    <nd ref="1439719720"/>
+    <nd ref="1439719734"/>
+    <nd ref="1439719745"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799926">
+    <nd ref="1439718872"/>
+    <nd ref="1439718885"/>
+    <nd ref="1439718889"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799928">
+    <nd ref="1439718578"/>
+    <nd ref="1439718632"/>
+    <nd ref="1439718675"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799929">
+    <nd ref="1439718826"/>
+    <nd ref="1439718806"/>
+    <nd ref="1439718783"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799932">
+    <nd ref="1439719653"/>
+    <nd ref="1439719554"/>
+    <nd ref="1439719526"/>
+    <nd ref="1439719429"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799934">
+    <nd ref="1439717932"/>
+    <nd ref="1439717938"/>
+    <nd ref="1439717957"/>
+    <nd ref="1439717966"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799807">
+    <nd ref="1439718615"/>
+    <nd ref="2837157820"/>
+    <nd ref="1439718718"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799848">
+    <nd ref="1439719239"/>
+    <nd ref="1439719187"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799820">
+    <nd ref="1439719028"/>
+    <nd ref="1439719097"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799871">
+    <nd ref="1439718329"/>
+    <nd ref="2868313237"/>
+    <nd ref="2868313241"/>
+    <nd ref="2868313228"/>
+    <nd ref="1439718427"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799930">
+    <nd ref="2835301950"/>
+    <nd ref="1439719582"/>
+    <nd ref="1439719743"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799922">
+    <nd ref="1439718518"/>
+    <nd ref="2885050192"/>
+    <nd ref="1439718580"/>
+    <nd ref="1439718651"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799851">
+    <nd ref="1439719160"/>
+    <nd ref="1439719200"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799887">
+    <nd ref="1439718703"/>
+    <nd ref="2837144656"/>
+    <nd ref="1439718674"/>
+    <nd ref="1439718634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799933">
+    <nd ref="1439719125"/>
+    <nd ref="1439719017"/>
+    <nd ref="1439718991"/>
+    <nd ref="1439718898"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799812">
+    <nd ref="1439718860"/>
+    <nd ref="1439718883"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799894">
+    <nd ref="2917165142"/>
+    <nd ref="1439719312"/>
+    <nd ref="2917165141"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799917">
+    <nd ref="1439719701"/>
+    <nd ref="2870611702"/>
+    <nd ref="1439719684"/>
+    <nd ref="2870611755"/>
+    <nd ref="1439719648"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799860">
+    <nd ref="1439719360"/>
+    <nd ref="1439719378"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799839">
+    <nd ref="1439719414"/>
+    <nd ref="1439719379"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799805">
+    <nd ref="1439719459"/>
+    <nd ref="1439719427"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799832">
+    <nd ref="1439718855"/>
+    <nd ref="1439718879"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799878">
+    <nd ref="1439718959"/>
+    <nd ref="1439718962"/>
+    <nd ref="2871649823"/>
+    <nd ref="2871649816"/>
+    <nd ref="2871649820"/>
+    <nd ref="2871649817"/>
+    <nd ref="1439719037"/>
+    <nd ref="1439719102"/>
+    <nd ref="1439719132"/>
+    <nd ref="1439719139"/>
+    <nd ref="1439719142"/>
+    <nd ref="1439719185"/>
+    <nd ref="3026733626"/>
+    <nd ref="1439719198"/>
+    <nd ref="1439719216"/>
+    <nd ref="1439719278"/>
+    <nd ref="1439719288"/>
+    <nd ref="3026734336"/>
+    <nd ref="1439719293"/>
+    <nd ref="1439719350"/>
+    <nd ref="1439719353"/>
+    <nd ref="1439719357"/>
+    <nd ref="1439719400"/>
+    <nd ref="1439719405"/>
+    <nd ref="1439719413"/>
+    <nd ref="1439719471"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799935">
+    <nd ref="1439719658"/>
+    <nd ref="1439719676"/>
+    <nd ref="1439719678"/>
+    <nd ref="1439719722"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799937">
+    <nd ref="1439719978"/>
+    <nd ref="1439719936"/>
+    <nd ref="1439719911"/>
+    <nd ref="1439719870"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799945">
+    <nd ref="1439718524"/>
+    <nd ref="1439718541"/>
+    <nd ref="1439718601"/>
+    <nd ref="1439718640"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799946">
+    <nd ref="1439718731"/>
+    <nd ref="1439718831"/>
+    <nd ref="1439718850"/>
+    <nd ref="1135676865"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799949">
+    <nd ref="1439719745"/>
+    <nd ref="1439719755"/>
+    <nd ref="1439719760"/>
+    <nd ref="1439719815"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799951">
+    <nd ref="1439719753"/>
+    <nd ref="1439719742"/>
+    <nd ref="1439719710"/>
+    <nd ref="1439719440"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799955">
+    <nd ref="1439719712"/>
+    <nd ref="1439719783"/>
+    <nd ref="1439719792"/>
+    <nd ref="1439719812"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799957">
+    <nd ref="1439719949"/>
+    <nd ref="1439719986"/>
+    <nd ref="1439719988"/>
+    <nd ref="1439719997"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799959">
+    <nd ref="1439720015"/>
+    <nd ref="1439720009"/>
+    <nd ref="1439720006"/>
+    <nd ref="1439719968"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799961">
+    <nd ref="1439719369"/>
+    <nd ref="1439719332"/>
+    <nd ref="1439719325"/>
+    <nd ref="1439719268"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799963">
+    <nd ref="1439719080"/>
+    <nd ref="1439719082"/>
+    <nd ref="1439719134"/>
+    <nd ref="1439719149"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799967">
+    <nd ref="1439719711"/>
+    <nd ref="1439719673"/>
+    <nd ref="1439719661"/>
+    <nd ref="1439719658"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799971">
+    <nd ref="1439719446"/>
+    <nd ref="1439719456"/>
+    <nd ref="1439719562"/>
+    <nd ref="1439719679"/>
+    <nd ref="1439719689"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799976">
+    <nd ref="1439719809"/>
+    <nd ref="1439719824"/>
+    <nd ref="1439719868"/>
+    <nd ref="1439719909"/>
+    <nd ref="1439719858"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799954">
+    <nd ref="1439718308"/>
+    <nd ref="3759910382"/>
+    <nd ref="3759910383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799969">
+    <nd ref="1439719153"/>
+    <nd ref="1439719130"/>
+    <nd ref="1439719111"/>
+    <nd ref="1439719017"/>
+    <nd ref="3979894357"/>
+    <nd ref="1439718880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799980">
+    <nd ref="1439717957"/>
+    <nd ref="1439717922"/>
+    <nd ref="1439717919"/>
+    <nd ref="1439717916"/>
+    <nd ref="1439717921"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799981">
+    <nd ref="1439719057"/>
+    <nd ref="1439719228"/>
+    <nd ref="1439719237"/>
+    <nd ref="1439719249"/>
+    <nd ref="1439719273"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799982">
+    <nd ref="1439718445"/>
+    <nd ref="1439718499"/>
+    <nd ref="1439718575"/>
+    <nd ref="1439718594"/>
+    <nd ref="1439718637"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799983">
+    <nd ref="1439719832"/>
+    <nd ref="1439719880"/>
+    <nd ref="1439719809"/>
+    <nd ref="1439719802"/>
+    <nd ref="1439719789"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799984">
+    <nd ref="1439718478"/>
+    <nd ref="1439718518"/>
+    <nd ref="1439718617"/>
+    <nd ref="1439718637"/>
+    <nd ref="1439718689"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799988">
+    <nd ref="1439719609"/>
+    <nd ref="1439719629"/>
+    <nd ref="1439719632"/>
+    <nd ref="1439719635"/>
+    <nd ref="1439719648"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799989">
+    <nd ref="1439719479"/>
+    <nd ref="1439719525"/>
+    <nd ref="1439719573"/>
+    <nd ref="1439719583"/>
+    <nd ref="1439719603"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799990">
+    <nd ref="1439719683"/>
+    <nd ref="1439719610"/>
+    <nd ref="1439719535"/>
+    <nd ref="1439719591"/>
+    <nd ref="1439719609"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799991">
+    <nd ref="1439719887"/>
+    <nd ref="1439719907"/>
+    <nd ref="1439719949"/>
+    <nd ref="1439720003"/>
+    <nd ref="1439720012"/>
+    <nd ref="1439720013"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799995">
+    <nd ref="1439719796"/>
+    <nd ref="1439719990"/>
+    <nd ref="1439720007"/>
+    <nd ref="1439720013"/>
+    <nd ref="1439720019"/>
+    <nd ref="1439720049"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799996">
+    <nd ref="1439718837"/>
+    <nd ref="1439718804"/>
+    <nd ref="1439718805"/>
+    <nd ref="1439718839"/>
+    <nd ref="1439718864"/>
+    <nd ref="1439718875"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799999">
+    <nd ref="1439718854"/>
+    <nd ref="1439718895"/>
+    <nd ref="1439718946"/>
+    <nd ref="1439718973"/>
+    <nd ref="1439718996"/>
+    <nd ref="1439719039"/>
+    <nd ref="1439719063"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800000">
+    <nd ref="1439719660"/>
+    <nd ref="1439719677"/>
+    <nd ref="1439719682"/>
+    <nd ref="1439719687"/>
+    <nd ref="1439719697"/>
+    <nd ref="1439719699"/>
+    <nd ref="1439719710"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800001">
+    <nd ref="1439718864"/>
+    <nd ref="1439718967"/>
+    <nd ref="1439719039"/>
+    <nd ref="1439719134"/>
+    <nd ref="1439719292"/>
+    <nd ref="1439719359"/>
+    <nd ref="1439719342"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800004">
+    <nd ref="1439718686"/>
+    <nd ref="1439718735"/>
+    <nd ref="1439718782"/>
+    <nd ref="1439718787"/>
+    <nd ref="1439718826"/>
+    <nd ref="1439718853"/>
+    <nd ref="1439718821"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800005">
+    <nd ref="1439719729"/>
+    <nd ref="1439719716"/>
+    <nd ref="1439719704"/>
+    <nd ref="1439719698"/>
+    <nd ref="1439719695"/>
+    <nd ref="1439719694"/>
+    <nd ref="1439719715"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800006">
+    <nd ref="1439719675"/>
+    <nd ref="1439719647"/>
+    <nd ref="1439719656"/>
+    <nd ref="1439719663"/>
+    <nd ref="1439719680"/>
+    <nd ref="1439719686"/>
+    <nd ref="1439719715"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800007">
+    <nd ref="1439719417"/>
+    <nd ref="1439719418"/>
+    <nd ref="1439719421"/>
+    <nd ref="1439719425"/>
+    <nd ref="1439719431"/>
+    <nd ref="1439719462"/>
+    <nd ref="1439719517"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800010">
+    <nd ref="1439719591"/>
+    <nd ref="1439719620"/>
+    <nd ref="1439719624"/>
+    <nd ref="1439719630"/>
+    <nd ref="1439719626"/>
+    <nd ref="1439719622"/>
+    <nd ref="1439719610"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800013">
+    <nd ref="1439719450"/>
+    <nd ref="1439719477"/>
+    <nd ref="1439719493"/>
+    <nd ref="1439719530"/>
+    <nd ref="1439719512"/>
+    <nd ref="1439719506"/>
+    <nd ref="1439719460"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800014">
+    <nd ref="1439719781"/>
+    <nd ref="1439719789"/>
+    <nd ref="1439719799"/>
+    <nd ref="1439719832"/>
+    <nd ref="1439719891"/>
+    <nd ref="1439719903"/>
+    <nd ref="1439719915"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800015">
+    <nd ref="1439718479"/>
+    <nd ref="1439718473"/>
+    <nd ref="1439718511"/>
+    <nd ref="1439718563"/>
+    <nd ref="1439718619"/>
+    <nd ref="1439718634"/>
+    <nd ref="1439718773"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800016">
+    <nd ref="1439718566"/>
+    <nd ref="1439718613"/>
+    <nd ref="1439718636"/>
+    <nd ref="1439718657"/>
+    <nd ref="1439718667"/>
+    <nd ref="1439718663"/>
+    <nd ref="1439718668"/>
+    <nd ref="1439718675"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800021">
+    <nd ref="1439719500"/>
+    <nd ref="1439719501"/>
+    <nd ref="1439719505"/>
+    <nd ref="1439719511"/>
+    <nd ref="1439719515"/>
+    <nd ref="1439719513"/>
+    <nd ref="1439719507"/>
+    <nd ref="1439719504"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800026">
+    <nd ref="1439718808"/>
+    <nd ref="1439718814"/>
+    <nd ref="1439718843"/>
+    <nd ref="1439718844"/>
+    <nd ref="1439718847"/>
+    <nd ref="1439718910"/>
+    <nd ref="1439718911"/>
+    <nd ref="1439718916"/>
+    <nd ref="1439718932"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800027">
+    <nd ref="1439719788"/>
+    <nd ref="1439719784"/>
+    <nd ref="1439719783"/>
+    <nd ref="1439719779"/>
+    <nd ref="1439719775"/>
+    <nd ref="1439719705"/>
+    <nd ref="1439719702"/>
+    <nd ref="1439719712"/>
+    <nd ref="1439719719"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800031">
+    <nd ref="1439719447"/>
+    <nd ref="1439719464"/>
+    <nd ref="1439719491"/>
+    <nd ref="1439719609"/>
+    <nd ref="1439719674"/>
+    <nd ref="1439719726"/>
+    <nd ref="1439719736"/>
+    <nd ref="1439719749"/>
+    <nd ref="1439719770"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800036">
+    <nd ref="1439717839"/>
+    <nd ref="1439717862"/>
+    <nd ref="1439717935"/>
+    <nd ref="1439717936"/>
+    <nd ref="1439717926"/>
+    <nd ref="1439717809"/>
+    <nd ref="1439717812"/>
+    <nd ref="1439717820"/>
+    <nd ref="1439717853"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800040">
+    <nd ref="1439718871"/>
+    <nd ref="1439719015"/>
+    <nd ref="1439719035"/>
+    <nd ref="1439719078"/>
+    <nd ref="1439719165"/>
+    <nd ref="1439719213"/>
+    <nd ref="1439719202"/>
+    <nd ref="1439719055"/>
+    <nd ref="1439719073"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799972">
+    <nd ref="1439719018"/>
+    <nd ref="1439719023"/>
+    <nd ref="1439719036"/>
+    <nd ref="1439719028"/>
+    <nd ref="1439719011"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800003">
+    <nd ref="1439719247"/>
+    <nd ref="1439719256"/>
+    <nd ref="1439719269"/>
+    <nd ref="1439719277"/>
+    <nd ref="1439719286"/>
+    <nd ref="1439719291"/>
+    <nd ref="1439719313"/>
+    <nd ref="1439719335"/>
+    <nd ref="1439719333"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799965">
+    <nd ref="1439718895"/>
+    <nd ref="1439718877"/>
+    <nd ref="1439718874"/>
+    <nd ref="2870561522"/>
+    <nd ref="1439718839"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800035">
+    <nd ref="1439718967"/>
+    <nd ref="1439718955"/>
+    <nd ref="1439718944"/>
+    <nd ref="2870561517"/>
+    <nd ref="1439718901"/>
+    <nd ref="1439718888"/>
+    <nd ref="1439718878"/>
+    <nd ref="2870561544"/>
+    <nd ref="1439718869"/>
+    <nd ref="2870561543"/>
+    <nd ref="1439718874"/>
+    <nd ref="1439718854"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800008">
+    <nd ref="1439718649"/>
+    <nd ref="2871637349"/>
+    <nd ref="2871637354"/>
+    <nd ref="1439718697"/>
+    <nd ref="1439718718"/>
+    <nd ref="1439718761"/>
+    <nd ref="1439718799"/>
+    <nd ref="1439718858"/>
+    <nd ref="2871637932"/>
+    <nd ref="1439718958"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800024">
+    <nd ref="1439718392"/>
+    <nd ref="1439718407"/>
+    <nd ref="1439718476"/>
+    <nd ref="1439718486"/>
+    <nd ref="1439718495"/>
+    <nd ref="1439718640"/>
+    <nd ref="1439718798"/>
+    <nd ref="1439718865"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800009">
+    <nd ref="1439719330"/>
+    <nd ref="1439719315"/>
+    <nd ref="1439719318"/>
+    <nd ref="1439719284"/>
+    <nd ref="1439719247"/>
+    <nd ref="2889755000"/>
+    <nd ref="1439719087"/>
+    <nd ref="1439719117"/>
+    <nd ref="1439719161"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799968">
+    <nd ref="1439718739"/>
+    <nd ref="1439718727"/>
+    <nd ref="1439718670"/>
+    <nd ref="2901172150"/>
+    <nd ref="2901172153"/>
+    <nd ref="1439718513"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800012">
+    <nd ref="1439718728"/>
+    <nd ref="1439718775"/>
+    <nd ref="1439718870"/>
+    <nd ref="1439718917"/>
+    <nd ref="1439718935"/>
+    <nd ref="1439718952"/>
+    <nd ref="1439718968"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800022">
+    <nd ref="1439719762"/>
+    <nd ref="1439719692"/>
+    <nd ref="1439719641"/>
+    <nd ref="1439719576"/>
+    <nd ref="1439719557"/>
+    <nd ref="1439719508"/>
+    <nd ref="1439719499"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800030">
+    <nd ref="1439719813"/>
+    <nd ref="1439719814"/>
+    <nd ref="1439719812"/>
+    <nd ref="1439719811"/>
+    <nd ref="2917428712"/>
+    <nd ref="1439719884"/>
+    <nd ref="1439719888"/>
+    <nd ref="1439719898"/>
+    <nd ref="1439719894"/>
+    <nd ref="1439719883"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799970">
+    <nd ref="1439718775"/>
+    <nd ref="1439718816"/>
+    <nd ref="1439718863"/>
+    <nd ref="1439718880"/>
+    <nd ref="1439718940"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799956">
+    <nd ref="2901188633"/>
+    <nd ref="1439718816"/>
+    <nd ref="1439718898"/>
+    <nd ref="2901188630"/>
+    <nd ref="1439718985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800041">
+    <nd ref="1439718670"/>
+    <nd ref="1439718692"/>
+    <nd ref="1439718728"/>
+    <nd ref="2901188633"/>
+    <nd ref="1439718773"/>
+    <nd ref="1439718802"/>
+    <nd ref="1439718833"/>
+    <nd ref="1439718856"/>
+    <nd ref="2901188632"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799944">
+    <nd ref="1439718677"/>
+    <nd ref="1439718684"/>
+    <nd ref="1439718679"/>
+    <nd ref="2918105305"/>
+    <nd ref="1439718706"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800017">
+    <nd ref="2917165144"/>
+    <nd ref="1439719018"/>
+    <nd ref="1439719119"/>
+    <nd ref="1439719187"/>
+    <nd ref="2917165141"/>
+    <nd ref="1439719273"/>
+    <nd ref="1439719361"/>
+    <nd ref="1439719375"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800011">
+    <nd ref="1439719642"/>
+    <nd ref="1439719590"/>
+    <nd ref="1439719558"/>
+    <nd ref="1439719510"/>
+    <nd ref="1439719498"/>
+    <nd ref="2971472346"/>
+    <nd ref="1439719476"/>
+    <nd ref="2971472351"/>
+    <nd ref="1439719391"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800032">
+    <nd ref="1439719462"/>
+    <nd ref="1439719455"/>
+    <nd ref="1439719451"/>
+    <nd ref="1439719463"/>
+    <nd ref="1439719469"/>
+    <nd ref="1439719480"/>
+    <nd ref="1439719495"/>
+    <nd ref="1439719502"/>
+    <nd ref="1439719522"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800018">
+    <nd ref="1439719010"/>
+    <nd ref="2901188629"/>
+    <nd ref="1439719258"/>
+    <nd ref="1439719266"/>
+    <nd ref="1439719334"/>
+    <nd ref="1439719369"/>
+    <nd ref="2901188624"/>
+    <nd ref="1439719389"/>
+    <nd ref="1439719402"/>
+    <nd ref="1439719411"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800023">
+    <nd ref="1439719442"/>
+    <nd ref="1439719445"/>
+    <nd ref="1439719481"/>
+    <nd ref="1439719459"/>
+    <nd ref="1439719378"/>
+    <nd ref="1439719338"/>
+    <nd ref="1439719327"/>
+    <nd ref="1439719289"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799979">
+    <nd ref="1439719324"/>
+    <nd ref="1439719317"/>
+    <nd ref="1439718892"/>
+    <nd ref="1439718483"/>
+    <nd ref="1439718367"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800142">
+    <nd ref="1439719119"/>
+    <nd ref="1439719122"/>
+    <nd ref="1439719155"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131633572">
+    <nd ref="1439718551"/>
+    <nd ref="1448514587"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131633570">
+    <nd ref="822483272"/>
+    <nd ref="1439718598"/>
+    <nd ref="1439718465"/>
+    <nd ref="824063606"/>
+    <nd ref="1439718457"/>
+    <nd ref="1439718430"/>
+    <nd ref="1448660833"/>
+    <nd ref="1448660831"/>
+    <nd ref="1439718419"/>
+    <nd ref="1439718336"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799687">
+    <nd ref="1439718840"/>
+    <nd ref="1439718683"/>
+    <nd ref="3751653213"/>
+    <nd ref="3751653183"/>
+    <nd ref="822483272"/>
+    <nd ref="3751653144"/>
+    <nd ref="1439718551"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799722">
+    <nd ref="1439718286"/>
+    <nd ref="3751653170"/>
+    <nd ref="3751653207"/>
+    <nd ref="1439718312"/>
+    <nd ref="1439718344"/>
+    <nd ref="1439718349"/>
+    <nd ref="1439718356"/>
+    <nd ref="1439718379"/>
+    <nd ref="1439718437"/>
+    <nd ref="1439718450"/>
+    <nd ref="1439718524"/>
+    <nd ref="1439718686"/>
+    <nd ref="1439718803"/>
+    <nd ref="1439718811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648491">
+    <nd ref="1448661129"/>
+    <nd ref="1448661127"/>
+    <nd ref="1448661124"/>
+    <nd ref="1448661125"/>
+    <nd ref="1448661126"/>
+    <nd ref="1448661128"/>
+    <nd ref="1448661131"/>
+    <nd ref="1448661135"/>
+    <nd ref="1448661137"/>
+    <nd ref="1448661138"/>
+    <nd ref="1439719391"/>
+    <nd ref="1448661132"/>
+    <nd ref="1448661129"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648497">
+    <nd ref="1448661301"/>
+    <nd ref="1439719975"/>
+    <nd ref="1448661299"/>
+    <nd ref="1439719941"/>
+    <nd ref="1439719893"/>
+    <nd ref="1439719883"/>
+    <nd ref="1439719871"/>
+    <nd ref="1439719838"/>
+    <nd ref="1439719819"/>
+    <nd ref="1439719813"/>
+    <nd ref="1439719806"/>
+    <nd ref="1439719798"/>
+    <nd ref="1439719788"/>
+    <nd ref="1439719763"/>
+    <nd ref="1439719732"/>
+    <nd ref="1439719719"/>
+    <nd ref="1439719700"/>
+    <nd ref="1439719688"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648498">
+    <nd ref="1448661122"/>
+    <nd ref="1448661117"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648499">
+    <nd ref="1439719987"/>
+    <nd ref="1448661301"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648504">
+    <nd ref="1448661108"/>
+    <nd ref="1448661113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648519">
+    <nd ref="1448661130"/>
+    <nd ref="1448661122"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648525">
+    <nd ref="1448661012"/>
+    <nd ref="1448661025"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648526">
+    <nd ref="1448661113"/>
+    <nd ref="1448661119"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648527">
+    <nd ref="1448661119"/>
+    <nd ref="1448661124"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648528">
+    <nd ref="1439719391"/>
+    <nd ref="1448661130"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648530">
+    <nd ref="1448661024"/>
+    <nd ref="1448661010"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648534">
+    <nd ref="1448661010"/>
+    <nd ref="1448660967"/>
+    <nd ref="1448660926"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648537">
+    <nd ref="1448661025"/>
+    <nd ref="1448661033"/>
+    <nd ref="1448661037"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648540">
+    <nd ref="1448661036"/>
+    <nd ref="1448661032"/>
+    <nd ref="1448661024"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648546">
+    <nd ref="1448660931"/>
+    <nd ref="1448660971"/>
+    <nd ref="1448661012"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648553">
+    <nd ref="1448660864"/>
+    <nd ref="1448660891"/>
+    <nd ref="1448660924"/>
+    <nd ref="1448660935"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648558">
+    <nd ref="1448660922"/>
+    <nd ref="1448660911"/>
+    <nd ref="1448660883"/>
+    <nd ref="1448660852"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648495">
+    <nd ref="1448661126"/>
+    <nd ref="1448661121"/>
+    <nd ref="1448661116"/>
+    <nd ref="1448661107"/>
+    <nd ref="1448661103"/>
+    <nd ref="1448661102"/>
+    <nd ref="1448661095"/>
+    <nd ref="1448661087"/>
+    <nd ref="1448661080"/>
+    <nd ref="1448661076"/>
+    <nd ref="1448661071"/>
+    <nd ref="1448661067"/>
+    <nd ref="1448661066"/>
+    <nd ref="1448661063"/>
+    <nd ref="1448661062"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648490">
+    <nd ref="1448661243"/>
+    <nd ref="1448661250"/>
+    <nd ref="1448661260"/>
+    <nd ref="1448661265"/>
+    <nd ref="1448661272"/>
+    <nd ref="1448661276"/>
+    <nd ref="1448661280"/>
+    <nd ref="1448661288"/>
+    <nd ref="1448661295"/>
+    <nd ref="2151731880"/>
+    <nd ref="1448661297"/>
+    <nd ref="1448661298"/>
+    <nd ref="1448661299"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799940">
+    <nd ref="1439718957"/>
+    <nd ref="1439718965"/>
+    <nd ref="1439719006"/>
+    <nd ref="1448661070"/>
+    <nd ref="1439719077"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648567">
+    <nd ref="1448661131"/>
+    <nd ref="1448661134"/>
+    <nd ref="1448661139"/>
+    <nd ref="1448661141"/>
+    <nd ref="1448661152"/>
+    <nd ref="1448661154"/>
+    <nd ref="1448661158"/>
+    <nd ref="1448661163"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799874">
+    <nd ref="1439720060"/>
+    <nd ref="1439720035"/>
+    <nd ref="1439720002"/>
+    <nd ref="1439719987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799688">
+    <nd ref="1439719831"/>
+    <nd ref="1439719815"/>
+    <nd ref="1439719478"/>
+    <nd ref="1439719471"/>
+    <nd ref="1439719468"/>
+    <nd ref="1439719367"/>
+    <nd ref="1448661117"/>
+    <nd ref="1448661108"/>
+    <nd ref="1439719331"/>
+    <nd ref="1439719077"/>
+    <nd ref="1439718867"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154257198">
+    <nd ref="1668260017"/>
+    <nd ref="1668208612"/>
+    <nd ref="2901223307"/>
+    <nd ref="1669637723"/>
+    <nd ref="1668208611"/>
+    <nd ref="1669637719"/>
+    <nd ref="1668208609"/>
+    <nd ref="1726826036"/>
+    <nd ref="1726825999"/>
+    <nd ref="1668208610"/>
+    <nd ref="3071945124"/>
+    <nd ref="1668208614"/>
+    <nd ref="2837177961"/>
+    <nd ref="1726826025"/>
+    <nd ref="1668208615"/>
+    <nd ref="1668208613"/>
+    <nd ref="1439718417"/>
+    <nd ref="1439718497"/>
+    <nd ref="2837177977"/>
+    <nd ref="1439718523"/>
+    <nd ref="1439718547"/>
+    <nd ref="1439718664"/>
+    <nd ref="1439718706"/>
+    <nd ref="1439718743"/>
+    <nd ref="1439718827"/>
+    <nd ref="2901188632"/>
+    <nd ref="1439718940"/>
+    <nd ref="1439719125"/>
+    <nd ref="1439719230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800028">
+    <nd ref="1439718896"/>
+    <nd ref="1439718818"/>
+    <nd ref="2837157819"/>
+    <nd ref="1439718760"/>
+    <nd ref="1439718716"/>
+    <nd ref="1439718691"/>
+    <nd ref="1439718672"/>
+    <nd ref="1439718629"/>
+    <nd ref="1439718622"/>
+    <nd ref="1439718615"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154257647">
+    <nd ref="1668212301"/>
+    <nd ref="2837221203"/>
+    <nd ref="2837221202"/>
+    <nd ref="1668212302"/>
+    <nd ref="2835336311"/>
+    <nd ref="1669640894"/>
+    <nd ref="1668248234"/>
+    <nd ref="1439718131"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154257461">
+    <nd ref="1439718669"/>
+    <nd ref="2870512654"/>
+    <nd ref="1668212560"/>
+    <nd ref="1448660935"/>
+    <nd ref="1448660931"/>
+    <nd ref="1448660926"/>
+    <nd ref="1448660922"/>
+    <nd ref="1448660917"/>
+    <nd ref="1439718414"/>
+    <nd ref="1439718406"/>
+    <nd ref="1439718397"/>
+    <nd ref="1439718392"/>
+    <nd ref="1439718390"/>
+    <nd ref="2868313264"/>
+    <nd ref="1439718350"/>
+    <nd ref="1439718349"/>
+    <nd ref="1439718346"/>
+    <nd ref="1439718329"/>
+    <nd ref="2837165114"/>
+    <nd ref="2837165104"/>
+    <nd ref="2837165105"/>
+    <nd ref="1439718272"/>
+    <nd ref="4152166571"/>
+    <nd ref="4152166570"/>
+    <nd ref="1439718265"/>
+    <nd ref="1668208612"/>
+    <nd ref="1668215322"/>
+    <nd ref="1668215319"/>
+    <nd ref="1668215320"/>
+    <nd ref="1668215321"/>
+    <nd ref="1668215318"/>
+    <nd ref="1668212301"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154257708">
+    <nd ref="1668215320"/>
+    <nd ref="1668216740"/>
+    <nd ref="1668216067"/>
+    <nd ref="1668215351"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261150">
+    <nd ref="1668248237"/>
+    <nd ref="1668247830"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261211">
+    <nd ref="1668248239"/>
+    <nd ref="1668248241"/>
+    <nd ref="1669640894"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261842">
+    <nd ref="1668248236"/>
+    <nd ref="1668248239"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261843">
+    <nd ref="1668248234"/>
+    <nd ref="1668248237"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261210">
+    <nd ref="1668255977"/>
+    <nd ref="3747384711"/>
+    <nd ref="3749263123"/>
+    <nd ref="1668255975"/>
+    <nd ref="1668248236"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154266156">
+    <nd ref="1668295986"/>
+    <nd ref="1668297397"/>
+    <nd ref="3751653106"/>
+    <nd ref="3747384710"/>
+    <nd ref="1668285578"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154262844">
+    <nd ref="1439719736"/>
+    <nd ref="1439719738"/>
+    <nd ref="1439719740"/>
+    <nd ref="1439719748"/>
+    <nd ref="1439719746"/>
+    <nd ref="1439719745"/>
+    <nd ref="1439719741"/>
+    <nd ref="1439719735"/>
+    <nd ref="1439719730"/>
+    <nd ref="1439719708"/>
+    <nd ref="1439719703"/>
+    <nd ref="1439719689"/>
+    <nd ref="1439719681"/>
+    <nd ref="1439719666"/>
+    <nd ref="1439719653"/>
+    <nd ref="1439719612"/>
+    <nd ref="1439719541"/>
+    <nd ref="1439719531"/>
+    <nd ref="1439719475"/>
+    <nd ref="1439719435"/>
+    <nd ref="1439719426"/>
+    <nd ref="1439719405"/>
+    <nd ref="1439719397"/>
+    <nd ref="1439719393"/>
+    <nd ref="1439719372"/>
+    <nd ref="1439719305"/>
+    <nd ref="1439719163"/>
+    <nd ref="1439719149"/>
+    <nd ref="1439719063"/>
+    <nd ref="1439718957"/>
+    <nd ref="1439718830"/>
+    <nd ref="1439718777"/>
+    <nd ref="1439718748"/>
+    <nd ref="1439718720"/>
+    <nd ref="1439718701"/>
+    <nd ref="1439718680"/>
+    <nd ref="1439718669"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799670">
+    <nd ref="1439718328"/>
+    <nd ref="1439718288"/>
+    <nd ref="1439718286"/>
+    <nd ref="1439718283"/>
+    <nd ref="1439718206"/>
+    <nd ref="824063651"/>
+    <nd ref="1439718195"/>
+    <nd ref="1668285581"/>
+    <nd ref="1668255977"/>
+    <nd ref="1668285578"/>
+    <nd ref="1668255973"/>
+    <nd ref="822483273"/>
+    <nd ref="3747458039"/>
+    <nd ref="3747458036"/>
+    <nd ref="825412208"/>
+    <nd ref="1439717850"/>
+    <nd ref="1439717843"/>
+    <nd ref="3747384697"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154423299">
+    <nd ref="1669637725"/>
+    <nd ref="1669637731"/>
+    <nd ref="1669637724"/>
+    <nd ref="1669637717"/>
+    <nd ref="1669637718"/>
+    <nd ref="1669635756"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154257650">
+    <nd ref="1668212301"/>
+    <nd ref="1668215352"/>
+    <nd ref="2835336307"/>
+    <nd ref="1668215353"/>
+    <nd ref="1668215351"/>
+    <nd ref="1668215350"/>
+    <nd ref="1669637730"/>
+    <nd ref="1668215349"/>
+    <nd ref="1668215354"/>
+    <nd ref="1669637725"/>
+    <nd ref="1668215355"/>
+    <nd ref="1726826032"/>
+    <nd ref="1439718477"/>
+    <nd ref="2837178694"/>
+    <nd ref="3059998139"/>
+    <nd ref="2835336309"/>
+    <nd ref="1726826031"/>
+    <nd ref="2837178709"/>
+    <nd ref="1726826022"/>
+    <nd ref="2837178711"/>
+    <nd ref="1668213943"/>
+    <nd ref="2837144634"/>
+    <nd ref="1439718487"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633076">
+    <nd ref="1726826025"/>
+    <nd ref="1726826006"/>
+    <nd ref="1669635743"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154422411">
+    <nd ref="1726825995"/>
+    <nd ref="1669635731"/>
+    <nd ref="1669635743"/>
+    <nd ref="1726826029"/>
+    <nd ref="1669635749"/>
+    <nd ref="1726826002"/>
+    <nd ref="2901223309"/>
+    <nd ref="1669635735"/>
+    <nd ref="1669635781"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154422413">
+    <nd ref="1726825999"/>
+    <nd ref="2901223308"/>
+    <nd ref="1669635777"/>
+    <nd ref="1669635735"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="162588262">
+    <nd ref="1744507013"/>
+    <nd ref="1141239885"/>
+    <nd ref="1668334699"/>
+    <nd ref="3023988830"/>
+    <nd ref="1744507018"/>
+    <nd ref="1744507019"/>
+    <nd ref="1135676841"/>
+    <nd ref="3751308749"/>
+    <nd ref="1744507020"/>
+    <nd ref="3751308755"/>
+    <nd ref="3023958436"/>
+    <nd ref="1135676886"/>
+    <nd ref="1135676888"/>
+    <nd ref="3016197341"/>
+    <nd ref="1439719317"/>
+    <nd ref="1439719396"/>
+    <nd ref="1439719402"/>
+    <nd ref="1439719410"/>
+    <nd ref="91487860"/>
+    <nd ref="1439719604"/>
+    <nd ref="814568018"/>
+    <nd ref="1135676855"/>
+    <nd ref="1439719634"/>
+    <nd ref="1439719714"/>
+    <nd ref="1439719742"/>
+    <nd ref="1439719747"/>
+    <nd ref="1439719900"/>
+    <nd ref="1439719903"/>
+    <nd ref="1439719905"/>
+    <nd ref="1448514613"/>
+    <nd ref="1448514618"/>
+    <nd ref="1448514619"/>
+    <nd ref="1448514621"/>
+    <nd ref="91487849"/>
+    <nd ref="1439720064"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="67476740">
+    <nd ref="1135676852"/>
+    <nd ref="814568025"/>
+    <nd ref="814567998"/>
+    <nd ref="814567983"/>
+    <nd ref="814568052"/>
+    <nd ref="814568008"/>
+    <nd ref="814568061"/>
+    <nd ref="814568022"/>
+    <nd ref="814568073"/>
+    <nd ref="814568034"/>
+    <nd ref="814567988"/>
+    <nd ref="814568043"/>
+    <nd ref="814568016"/>
+    <nd ref="814568069"/>
+    <nd ref="814568030"/>
+    <nd ref="814567985"/>
+    <nd ref="814568039"/>
+    <nd ref="814567993"/>
+    <nd ref="814568047"/>
+    <nd ref="814568003"/>
+    <nd ref="814568074"/>
+    <nd ref="814568035"/>
+    <nd ref="814567989"/>
+    <nd ref="814568044"/>
+    <nd ref="814567997"/>
+    <nd ref="814568049"/>
+    <nd ref="814568005"/>
+    <nd ref="814568058"/>
+    <nd ref="814568040"/>
+    <nd ref="814567995"/>
+    <nd ref="814568048"/>
+    <nd ref="814568004"/>
+    <nd ref="814568054"/>
+    <nd ref="814568009"/>
+    <nd ref="1919024466"/>
+    <nd ref="814568062"/>
+    <nd ref="1919024481"/>
+    <nd ref="814568023"/>
+    <nd ref="814568001"/>
+    <nd ref="1919024502"/>
+    <nd ref="814568050"/>
+    <nd ref="814568007"/>
+    <nd ref="1919024515"/>
+    <nd ref="814568059"/>
+    <nd ref="1919024521"/>
+    <nd ref="814568019"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1.5"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="181486412">
+    <nd ref="1919024573"/>
+    <nd ref="812699834"/>
+    <nd ref="812699836"/>
+    <nd ref="812699838"/>
+    <nd ref="812699840"/>
+    <nd ref="812699843"/>
+    <nd ref="812699845"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98151001">
+    <nd ref="1135676859"/>
+    <nd ref="86841219"/>
+    <nd ref="86841221"/>
+    <nd ref="1919024574"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="63 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="181486396">
+    <nd ref="812699892"/>
+    <nd ref="812699898"/>
+    <nd ref="812699900"/>
+    <nd ref="812699901"/>
+    <nd ref="812699902"/>
+    <nd ref="812699904"/>
+    <nd ref="812699906"/>
+    <nd ref="812699909"/>
+    <nd ref="812699911"/>
+    <nd ref="1919024421"/>
+    <nd ref="812699913"/>
+    <nd ref="812699916"/>
+    <nd ref="812699918"/>
+    <nd ref="812699919"/>
+    <nd ref="812699921"/>
+    <nd ref="812699923"/>
+    <nd ref="812699926"/>
+    <nd ref="812699928"/>
+    <nd ref="812699930"/>
+    <nd ref="812699931"/>
+    <nd ref="812699933"/>
+    <nd ref="812699935"/>
+    <nd ref="812699936"/>
+    <nd ref="812699937"/>
+    <nd ref="812699938"/>
+    <nd ref="812699939"/>
+    <nd ref="812699945"/>
+    <nd ref="812699948"/>
+    <nd ref="812699950"/>
+    <nd ref="812699952"/>
+    <nd ref="812699953"/>
+    <nd ref="812699954"/>
+    <nd ref="812699955"/>
+    <nd ref="812699956"/>
+    <nd ref="812699958"/>
+    <nd ref="812699961"/>
+    <nd ref="812699963"/>
+    <nd ref="812699965"/>
+    <nd ref="812699967"/>
+    <nd ref="812699968"/>
+    <nd ref="812699970"/>
+    <nd ref="812699972"/>
+    <nd ref="812699973"/>
+    <nd ref="812699974"/>
+    <nd ref="812699976"/>
+    <nd ref="812699978"/>
+    <nd ref="812699980"/>
+    <nd ref="4055188644"/>
+    <nd ref="812699982"/>
+    <nd ref="4055188643"/>
+    <nd ref="812699984"/>
+    <nd ref="1135676855"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="163926030">
+    <nd ref="1755882464"/>
+    <nd ref="1439718330"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="68313504">
+    <nd ref="1108235257"/>
+    <nd ref="1439717884"/>
+    <nd ref="824063634"/>
+    <nd ref="824063609"/>
+    <nd ref="824063661"/>
+    <nd ref="824063589"/>
+    <nd ref="822483282"/>
+    <nd ref="1439718295"/>
+    <nd ref="1439718297"/>
+    <nd ref="822483261"/>
+    <nd ref="1439718300"/>
+    <nd ref="1439718301"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="164024487">
+    <nd ref="1756857663"/>
+    <nd ref="1756857709"/>
+    <nd ref="1756857688"/>
+    <nd ref="1756857669"/>
+    <nd ref="1756857663"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="164024488">
+    <nd ref="1756857669"/>
+    <nd ref="1756857676"/>
+    <nd ref="1756857679"/>
+    <nd ref="1756857693"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799881">
+    <nd ref="1439719321"/>
+    <nd ref="1439719252"/>
+    <nd ref="1439719188"/>
+    <nd ref="1439719127"/>
+    <nd ref="1439719058"/>
+    <nd ref="1439719026"/>
+    <nd ref="1439718981"/>
+    <nd ref="1439718924"/>
+    <nd ref="1439718881"/>
+    <nd ref="1439718846"/>
+    <nd ref="2309301792"/>
+    <nd ref="1439718837"/>
+    <nd ref="1439718828"/>
+    <nd ref="1439718781"/>
+    <nd ref="1439718736"/>
+    <nd ref="1439718733"/>
+    <nd ref="1448661037"/>
+    <nd ref="1439718725"/>
+    <nd ref="1448661036"/>
+    <nd ref="1439718724"/>
+    <nd ref="1439718721"/>
+    <nd ref="1439718704"/>
+    <nd ref="2871649867"/>
+    <nd ref="2871649861"/>
+    <nd ref="2871649866"/>
+    <nd ref="2871649865"/>
+    <nd ref="2871649859"/>
+    <nd ref="1439718649"/>
+    <nd ref="1439718600"/>
+    <nd ref="1439718595"/>
+    <nd ref="1439718576"/>
+    <nd ref="1439718512"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="98647170">
+    <nd ref="2016905538"/>
+    <nd ref="2016905539"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="191108754">
+    <nd ref="2016905540"/>
+    <nd ref="2016905541"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="191108757">
+    <nd ref="2016905539"/>
+    <nd ref="2016905540"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799823">
+    <nd ref="1439719251"/>
+    <nd ref="1439719274"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="227901801">
+    <nd ref="2365322051"/>
+    <nd ref="2365324973"/>
+    <nd ref="2365324975"/>
+    <nd ref="2365324977"/>
+    <nd ref="2365324979"/>
+    <nd ref="2365324992"/>
+    <nd ref="2365324994"/>
+    <nd ref="2365324996"/>
+    <nd ref="2365324998"/>
+    <nd ref="2365325000"/>
+    <nd ref="2365325002"/>
+    <nd ref="1439719217"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="227901438">
+    <nd ref="2365322049"/>
+    <nd ref="2365326890"/>
+    <nd ref="2365322051"/>
+    <nd ref="2365322050"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="205196355">
+    <nd ref="2151731905"/>
+    <nd ref="2151731873"/>
+    <nd ref="2151731853"/>
+    <nd ref="2151731868"/>
+    <nd ref="2151731880"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="205196350">
+    <nd ref="2151731891"/>
+    <nd ref="2151731897"/>
+    <nd ref="2151731903"/>
+    <nd ref="2151731893"/>
+    <nd ref="2971472338"/>
+    <nd ref="2151731882"/>
+    <nd ref="2151731901"/>
+    <nd ref="2151731863"/>
+    <nd ref="2151731866"/>
+    <nd ref="2151731852"/>
+    <nd ref="2151731870"/>
+    <nd ref="2151731877"/>
+    <nd ref="2971472333"/>
+    <nd ref="2151731908"/>
+    <nd ref="1448661181"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="311063334">
+    <nd ref="3166108243"/>
+    <nd ref="823976158"/>
+    <nd ref="823976085"/>
+    <nd ref="2983230584"/>
+    <nd ref="823976137"/>
+    <nd ref="3282589416"/>
+    <nd ref="823976066"/>
+    <nd ref="823976121"/>
+    <nd ref="2987612898"/>
+    <nd ref="823976205"/>
+    <nd ref="823976108"/>
+    <nd ref="823976198"/>
+    <nd ref="823976098"/>
+    <nd ref="823976182"/>
+    <nd ref="2981216561"/>
+    <nd ref="823976080"/>
+    <nd ref="823976165"/>
+    <nd ref="2999592704"/>
+    <nd ref="3528804982"/>
+    <nd ref="823976060"/>
+    <nd ref="823976146"/>
+    <nd ref="823976203"/>
+    <nd ref="2981216562"/>
+    <nd ref="814343525"/>
+    <nd ref="1448514624"/>
+    <nd ref="1448514622"/>
+    <nd ref="1448514619"/>
+    <nd ref="1448514617"/>
+    <nd ref="1439719980"/>
+    <nd ref="1439719859"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311908">
+    <nd ref="1668260017"/>
+    <nd ref="2835336200"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311909">
+    <nd ref="2835336301"/>
+    <nd ref="2835336302"/>
+    <nd ref="1668215350"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311910">
+    <nd ref="2835336303"/>
+    <nd ref="2835336304"/>
+    <nd ref="2835336305"/>
+    <nd ref="2835336306"/>
+    <nd ref="2835336307"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311911">
+    <nd ref="2835336308"/>
+    <nd ref="2835336309"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311912">
+    <nd ref="2835257207"/>
+    <nd ref="2835336312"/>
+    <nd ref="2835336314"/>
+    <nd ref="2835336316"/>
+    <nd ref="2835336310"/>
+    <nd ref="2835336311"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311913">
+    <nd ref="2835336312"/>
+    <nd ref="2835336313"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311914">
+    <nd ref="2835336314"/>
+    <nd ref="2835336315"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279311915">
+    <nd ref="2835336316"/>
+    <nd ref="2835336317"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279313870">
+    <nd ref="1439718703"/>
+    <nd ref="1439718719"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799927">
+    <nd ref="1439718710"/>
+    <nd ref="1439718859"/>
+    <nd ref="2835353665"/>
+    <nd ref="2835353666"/>
+    <nd ref="2917165144"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799884">
+    <nd ref="1439718428"/>
+    <nd ref="2837144645"/>
+    <nd ref="2837144646"/>
+    <nd ref="2987374911"/>
+    <nd ref="2837144649"/>
+    <nd ref="2901212047"/>
+    <nd ref="2835353271"/>
+    <nd ref="2901212046"/>
+    <nd ref="1439718510"/>
+    <nd ref="1439718564"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487702">
+    <nd ref="2837144632"/>
+    <nd ref="1668213941"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487704">
+    <nd ref="2837144635"/>
+    <nd ref="2837144636"/>
+    <nd ref="2837144637"/>
+    <nd ref="2837144631"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487705">
+    <nd ref="2837144638"/>
+    <nd ref="2837144639"/>
+    <nd ref="2837144640"/>
+    <nd ref="2837144641"/>
+    <nd ref="2837144642"/>
+    <nd ref="2837144643"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487709">
+    <nd ref="2837144650"/>
+    <nd ref="2837144652"/>
+    <nd ref="2837144653"/>
+    <nd ref="2837144654"/>
+    <nd ref="2837144655"/>
+    <nd ref="2837144656"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487703">
+    <nd ref="1439718412"/>
+    <nd ref="2837144633"/>
+    <nd ref="2837145276"/>
+    <nd ref="2837144644"/>
+    <nd ref="2837144638"/>
+    <nd ref="2837144635"/>
+    <nd ref="2837145205"/>
+    <nd ref="2837144634"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279488325">
+    <nd ref="2837148977"/>
+    <nd ref="2837148978"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279488326">
+    <nd ref="2837148979"/>
+    <nd ref="2837148980"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279488327">
+    <nd ref="2837148981"/>
+    <nd ref="2837148982"/>
+    <nd ref="2837148983"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799794">
+    <nd ref="1439718771"/>
+    <nd ref="2837148976"/>
+    <nd ref="1439718808"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279488323">
+    <nd ref="2837148959"/>
+    <nd ref="2889769525"/>
+    <nd ref="2837148960"/>
+    <nd ref="2837148961"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279489000">
+    <nd ref="2837157820"/>
+    <nd ref="2837157821"/>
+    <nd ref="2837157822"/>
+    <nd ref="2837157823"/>
+    <nd ref="2837157824"/>
+    <nd ref="2837157825"/>
+    <nd ref="2837157826"/>
+    <nd ref="2837157827"/>
+    <nd ref="2837157828"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799735">
+    <nd ref="1439718894"/>
+    <nd ref="1439718897"/>
+    <nd ref="1439718911"/>
+    <nd ref="1439718928"/>
+    <nd ref="2837157816"/>
+    <nd ref="1439719073"/>
+    <nd ref="1439719259"/>
+    <nd ref="1439719265"/>
+    <nd ref="1439719279"/>
+    <nd ref="1439719310"/>
+    <nd ref="1439719336"/>
+    <nd ref="1439719371"/>
+    <nd ref="1439719392"/>
+    <nd ref="1439719423"/>
+    <nd ref="1439719437"/>
+    <nd ref="1439719458"/>
+    <nd ref="1439719472"/>
+    <nd ref="1439719482"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279490028">
+    <nd ref="2837165114"/>
+    <nd ref="2837165115"/>
+    <nd ref="2837165116"/>
+    <nd ref="2837165117"/>
+    <nd ref="2837165118"/>
+    <nd ref="2837165110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799729">
+    <nd ref="2835353685"/>
+    <nd ref="1439718456"/>
+    <nd ref="1439718448"/>
+    <nd ref="1439718446"/>
+    <nd ref="1439718449"/>
+    <nd ref="1439718452"/>
+    <nd ref="2835353681"/>
+    <nd ref="2837165113"/>
+    <nd ref="2835353682"/>
+    <nd ref="1439718460"/>
+    <nd ref="1439718466"/>
+    <nd ref="1439718471"/>
+    <nd ref="1439718480"/>
+    <nd ref="2835353683"/>
+    <nd ref="2835353684"/>
+    <nd ref="1439718481"/>
+    <nd ref="1439718482"/>
+    <nd ref="1439718478"/>
+    <nd ref="1439718474"/>
+    <nd ref="1439718469"/>
+    <nd ref="1439718462"/>
+    <nd ref="2835353685"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279490029">
+    <nd ref="2837165119"/>
+    <nd ref="2837165120"/>
+    <nd ref="2837165121"/>
+    <nd ref="2837165122"/>
+    <nd ref="2837165123"/>
+    <nd ref="2837165124"/>
+    <nd ref="2837165125"/>
+    <nd ref="2837165126"/>
+    <nd ref="2837165127"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491459">
+    <nd ref="2837177961"/>
+    <nd ref="2837177962"/>
+    <nd ref="2837177963"/>
+    <nd ref="1668208614"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491460">
+    <nd ref="2837177964"/>
+    <nd ref="2837177965"/>
+    <nd ref="2837177966"/>
+    <nd ref="2837177962"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491461">
+    <nd ref="2837177967"/>
+    <nd ref="2837177968"/>
+    <nd ref="2837177969"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491462">
+    <nd ref="2837177970"/>
+    <nd ref="2837177971"/>
+    <nd ref="2837177972"/>
+    <nd ref="2837177973"/>
+    <nd ref="2837177974"/>
+    <nd ref="2837177975"/>
+    <nd ref="2837177976"/>
+    <nd ref="2837177964"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491463">
+    <nd ref="2837144634"/>
+    <nd ref="2837177977"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491480">
+    <nd ref="2837178694"/>
+    <nd ref="2837178695"/>
+    <nd ref="2837178696"/>
+    <nd ref="2837178697"/>
+    <nd ref="2837178698"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491481">
+    <nd ref="2835228097"/>
+    <nd ref="2837178699"/>
+    <nd ref="2837178700"/>
+    <nd ref="2837178701"/>
+    <nd ref="2837178702"/>
+    <nd ref="2837178703"/>
+    <nd ref="2837178704"/>
+    <nd ref="2837178705"/>
+    <nd ref="2837178699"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491482">
+    <nd ref="2837178706"/>
+    <nd ref="2837178707"/>
+    <nd ref="2837178708"/>
+    <nd ref="2837178709"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279491483">
+    <nd ref="2837178710"/>
+    <nd ref="2837178711"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799919">
+    <nd ref="1439718417"/>
+    <nd ref="1439718497"/>
+    <nd ref="2837177977"/>
+    <nd ref="1439718523"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799849">
+    <nd ref="1439718593"/>
+    <nd ref="1439718664"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799767">
+    <nd ref="1439718845"/>
+    <nd ref="1439718822"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799977">
+    <nd ref="1439718746"/>
+    <nd ref="1439718757"/>
+    <nd ref="1439718743"/>
+    <nd ref="1439718715"/>
+    <nd ref="1439718719"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799897">
+    <nd ref="1439718699"/>
+    <nd ref="1439718711"/>
+    <nd ref="1439718708"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279487707">
+    <nd ref="2837144646"/>
+    <nd ref="1439718479"/>
+    <nd ref="2837144647"/>
+    <nd ref="2987374909"/>
+    <nd ref="2987374910"/>
+    <nd ref="2837144648"/>
+    <nd ref="2837178639"/>
+    <nd ref="2837178645"/>
+    <nd ref="2901212048"/>
+    <nd ref="2837144649"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279493860">
+    <nd ref="2837198969"/>
+    <nd ref="2837198970"/>
+    <nd ref="2837198971"/>
+    <nd ref="2837198972"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279493861">
+    <nd ref="2837198973"/>
+    <nd ref="2837198974"/>
+    <nd ref="2837198975"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799726">
+    <nd ref="1439719412"/>
+    <nd ref="1439719354"/>
+    <nd ref="2917165142"/>
+    <nd ref="1439719339"/>
+    <nd ref="2365322049"/>
+    <nd ref="1439719148"/>
+    <nd ref="1439719085"/>
+    <nd ref="2917165143"/>
+    <nd ref="1439719047"/>
+    <nd ref="2837198975"/>
+    <nd ref="2837148961"/>
+    <nd ref="1439718861"/>
+    <nd ref="1439718825"/>
+    <nd ref="1439718817"/>
+    <nd ref="1439718808"/>
+    <nd ref="1439718792"/>
+    <nd ref="1439718786"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799709">
+    <nd ref="1439718879"/>
+    <nd ref="2917165144"/>
+    <nd ref="2837148959"/>
+    <nd ref="2837198973"/>
+    <nd ref="2917165143"/>
+    <nd ref="1439719076"/>
+    <nd ref="1439719120"/>
+    <nd ref="1439719217"/>
+    <nd ref="2870638611"/>
+    <nd ref="1439719265"/>
+    <nd ref="1439719271"/>
+    <nd ref="1439719285"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800033">
+    <nd ref="1439718766"/>
+    <nd ref="1439718745"/>
+    <nd ref="2837202706"/>
+    <nd ref="1439718651"/>
+    <nd ref="2837148977"/>
+    <nd ref="1439718568"/>
+    <nd ref="1439718549"/>
+    <nd ref="1439718493"/>
+    <nd ref="1439718475"/>
+    <nd ref="1439718464"/>
+    <nd ref="1439718439"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799974">
+    <nd ref="1439718514"/>
+    <nd ref="1439718580"/>
+    <nd ref="2837202705"/>
+    <nd ref="1439718688"/>
+    <nd ref="1439718713"/>
+    <nd ref="1439718745"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279494346">
+    <nd ref="2837202705"/>
+    <nd ref="2875859190"/>
+    <nd ref="2837202706"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799875">
+    <nd ref="1439718500"/>
+    <nd ref="1439718489"/>
+    <nd ref="1439718486"/>
+    <nd ref="1439718484"/>
+    <nd ref="1439718467"/>
+    <nd ref="1439718447"/>
+    <nd ref="1439718450"/>
+    <nd ref="1439718442"/>
+    <nd ref="2837148980"/>
+    <nd ref="2837207756"/>
+    <nd ref="2837148983"/>
+    <nd ref="1439718426"/>
+    <nd ref="1439718427"/>
+    <nd ref="2987409086"/>
+    <nd ref="2837165119"/>
+    <nd ref="1439718439"/>
+    <nd ref="1439718453"/>
+    <nd ref="1439718458"/>
+    <nd ref="2987409085"/>
+    <nd ref="1439718461"/>
+    <nd ref="1439718460"/>
+    <nd ref="1439718459"/>
+    <nd ref="1439718456"/>
+    <nd ref="1439718454"/>
+    <nd ref="1439718445"/>
+    <nd ref="1439718435"/>
+    <nd ref="4161763373"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799714">
+    <nd ref="1439719404"/>
+    <nd ref="1439719379"/>
+    <nd ref="1439719374"/>
+    <nd ref="2901188623"/>
+    <nd ref="2901188622"/>
+    <nd ref="1439719253"/>
+    <nd ref="1439719280"/>
+    <nd ref="1439719290"/>
+    <nd ref="1439719302"/>
+    <nd ref="1439719320"/>
+    <nd ref="1439719360"/>
+    <nd ref="1439719414"/>
+    <nd ref="1439719427"/>
+    <nd ref="1439719442"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130800039">
+    <nd ref="1439719399"/>
+    <nd ref="1439719381"/>
+    <nd ref="1439719376"/>
+    <nd ref="1439719370"/>
+    <nd ref="1439719352"/>
+    <nd ref="1439719337"/>
+    <nd ref="1439719326"/>
+    <nd ref="1439719319"/>
+    <nd ref="1439719258"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799966">
+    <nd ref="1439719334"/>
+    <nd ref="1439719399"/>
+    <nd ref="1439719404"/>
+    <nd ref="1439719406"/>
+    <nd ref="1439719442"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799882">
+    <nd ref="1439718835"/>
+    <nd ref="1439718872"/>
+    <nd ref="1439718935"/>
+    <nd ref="1439718985"/>
+    <nd ref="1439719130"/>
+    <nd ref="1439719230"/>
+    <nd ref="2837207962"/>
+    <nd ref="1439719361"/>
+    <nd ref="1439719363"/>
+    <nd ref="1439719401"/>
+    <nd ref="1439719412"/>
+    <nd ref="1439719474"/>
+    <nd ref="1439719482"/>
+    <nd ref="1439719489"/>
+    <nd ref="1439719536"/>
+    <nd ref="1439719549"/>
+    <nd ref="1439719560"/>
+    <nd ref="1439719563"/>
+    <nd ref="1439719683"/>
+    <nd ref="1439719731"/>
+    <nd ref="1439719736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799950">
+    <nd ref="1668212302"/>
+    <nd ref="2837221202"/>
+    <nd ref="2837221203"/>
+    <nd ref="1668212301"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886139">
+    <nd ref="2868313227"/>
+    <nd ref="2868313229"/>
+    <nd ref="2868313242"/>
+    <nd ref="2868313238"/>
+    <nd ref="2837165132"/>
+    <nd ref="2868313228"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886140">
+    <nd ref="2868313229"/>
+    <nd ref="2868313230"/>
+    <nd ref="2868313231"/>
+    <nd ref="2868313232"/>
+    <nd ref="2868313233"/>
+    <nd ref="2868313234"/>
+    <nd ref="2868313235"/>
+    <nd ref="2868313236"/>
+    <nd ref="2868313239"/>
+    <nd ref="2868313237"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886141">
+    <nd ref="2868313238"/>
+    <nd ref="2868313240"/>
+    <nd ref="2868313239"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886143">
+    <nd ref="2868313240"/>
+    <nd ref="2868313241"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886144">
+    <nd ref="2868313242"/>
+    <nd ref="2868313244"/>
+    <nd ref="2837165125"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886145">
+    <nd ref="2868313243"/>
+    <nd ref="2868313244"/>
+    <nd ref="2868313245"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886146">
+    <nd ref="2868313246"/>
+    <nd ref="2868313247"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886147">
+    <nd ref="2868313248"/>
+    <nd ref="2868313249"/>
+    <nd ref="2868313250"/>
+    <nd ref="2868313251"/>
+    <nd ref="2868313252"/>
+    <nd ref="2868313253"/>
+    <nd ref="2868313254"/>
+    <nd ref="2868313255"/>
+    <nd ref="2868313256"/>
+    <nd ref="2868313257"/>
+    <nd ref="2868313258"/>
+    <nd ref="2868313259"/>
+    <nd ref="2868313260"/>
+    <nd ref="2868313261"/>
+    <nd ref="2868313262"/>
+    <nd ref="2868313263"/>
+    <nd ref="2868313264"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886149">
+    <nd ref="2868313265"/>
+    <nd ref="2868313266"/>
+    <nd ref="2868313267"/>
+    <nd ref="2868313268"/>
+    <nd ref="2868313256"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="282886154">
+    <nd ref="2868313309"/>
+    <nd ref="2868313310"/>
+    <nd ref="2868313311"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633077">
+    <nd ref="1726826000"/>
+    <nd ref="1726826041"/>
+    <nd ref="1726826036"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633068">
+    <nd ref="1726826032"/>
+    <nd ref="1726825998"/>
+    <nd ref="1726826034"/>
+    <nd ref="1726825997"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154423302">
+    <nd ref="1669637723"/>
+    <nd ref="1669637729"/>
+    <nd ref="1669637722"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633069">
+    <nd ref="1726826035"/>
+    <nd ref="1726826022"/>
+    <nd ref="1726825996"/>
+    <nd ref="1726826035"/>
+    <nd ref="1726826029"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633070">
+    <nd ref="1726826031"/>
+    <nd ref="1726826008"/>
+    <nd ref="1726826002"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279490030">
+    <nd ref="2837165122"/>
+    <nd ref="2837165128"/>
+    <nd ref="2837165129"/>
+    <nd ref="2868313246"/>
+    <nd ref="2837165130"/>
+    <nd ref="2837165131"/>
+    <nd ref="2837165132"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154423303">
+    <nd ref="1669637730"/>
+    <nd ref="1669637721"/>
+    <nd ref="1669637728"/>
+    <nd ref="2901223313"/>
+    <nd ref="1669637715"/>
+    <nd ref="1669637722"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154423305">
+    <nd ref="1669637719"/>
+    <nd ref="2918105277"/>
+    <nd ref="1669637727"/>
+    <nd ref="1669635756"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279490027">
+    <nd ref="2837165105"/>
+    <nd ref="2837165106"/>
+    <nd ref="2837165107"/>
+    <nd ref="2837165108"/>
+    <nd ref="2837165109"/>
+    <nd ref="2837165110"/>
+    <nd ref="2868313227"/>
+    <nd ref="2837165111"/>
+    <nd ref="2837165127"/>
+    <nd ref="2837165112"/>
+    <nd ref="2987409084"/>
+    <nd ref="2837165113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154422418">
+    <nd ref="1668215319"/>
+    <nd ref="1669635728"/>
+    <nd ref="1669635712"/>
+    <nd ref="1669637722"/>
+    <nd ref="1669635756"/>
+    <nd ref="1726825997"/>
+    <nd ref="1669635753"/>
+    <nd ref="1726826000"/>
+    <nd ref="1669635769"/>
+    <nd ref="1669635781"/>
+    <nd ref="1669635738"/>
+    <nd ref="1669637720"/>
+    <nd ref="3059998139"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="160633071">
+    <nd ref="1669635749"/>
+    <nd ref="1726826020"/>
+    <nd ref="3071945124"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="283146787">
+    <nd ref="2870577396"/>
+    <nd ref="1439718979"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="284800628">
+    <nd ref="2837144650"/>
+    <nd ref="2837178639"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="284800629">
+    <nd ref="2837144650"/>
+    <nd ref="2885050144"/>
+    <nd ref="2885050145"/>
+    <nd ref="2885050146"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="288250095">
+    <nd ref="2837144632"/>
+    <nd ref="2835228096"/>
+    <nd ref="2835228097"/>
+    <nd ref="2835228098"/>
+    <nd ref="2835228099"/>
+    <nd ref="2837178706"/>
+    <nd ref="2835228100"/>
+    <nd ref="2835257201"/>
+    <nd ref="2835257202"/>
+    <nd ref="3759910385"/>
+    <nd ref="2835257203"/>
+    <nd ref="2835257204"/>
+    <nd ref="2835257205"/>
+    <nd ref="2835257206"/>
+    <nd ref="2835257207"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="288250096">
+    <nd ref="2835228094"/>
+    <nd ref="2837144632"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="292024322">
+    <nd ref="2955372544"/>
+    <nd ref="2955372545"/>
+    <nd ref="2955372546"/>
+    <nd ref="2955372547"/>
+    <nd ref="2955372548"/>
+    <nd ref="2955372549"/>
+    <nd ref="2955372550"/>
+    <nd ref="2955372551"/>
+    <nd ref="2955372552"/>
+    <nd ref="2955372553"/>
+    <nd ref="2955372554"/>
+    <nd ref="2955372555"/>
+    <nd ref="2955372556"/>
+    <nd ref="2955372557"/>
+    <nd ref="2837207767"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="297487401">
+    <nd ref="822483271"/>
+    <nd ref="2151727721"/>
+    <nd ref="1439718752"/>
+    <nd ref="1439718648"/>
+    <nd ref="822483272"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="297487400">
+    <nd ref="822483271"/>
+    <nd ref="3751653149"/>
+    <nd ref="1439718741"/>
+    <nd ref="1439718714"/>
+    <nd ref="822483274"/>
+    <nd ref="1439718535"/>
+    <nd ref="822483268"/>
+    <nd ref="1439718502"/>
+    <nd ref="1448660916"/>
+    <nd ref="1448660902"/>
+    <nd ref="822483275"/>
+    <nd ref="1448660856"/>
+    <nd ref="1448660837"/>
+    <nd ref="822483276"/>
+    <nd ref="1439718418"/>
+    <nd ref="814343526"/>
+    <nd ref="1439718408"/>
+    <nd ref="1448660829"/>
+    <nd ref="822483277"/>
+    <nd ref="824063676"/>
+    <nd ref="824063626"/>
+    <nd ref="824063572"/>
+    <nd ref="824063635"/>
+    <nd ref="824063658"/>
+    <nd ref="1439718444"/>
+    <nd ref="3751653142"/>
+    <nd ref="824063606"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="297718105">
+    <nd ref="3016197341"/>
+    <nd ref="3016197342"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="298752791">
+    <nd ref="3026733626"/>
+    <nd ref="3026733627"/>
+    <nd ref="3026733628"/>
+    <nd ref="3026733629"/>
+    <nd ref="3026733630"/>
+    <nd ref="3026733631"/>
+    <nd ref="1439719121"/>
+    <nd ref="1439719137"/>
+    <nd ref="3026733632"/>
+    <nd ref="3026734333"/>
+    <nd ref="3026734334"/>
+    <nd ref="3026734335"/>
+    <nd ref="3026734336"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="154261845">
+    <nd ref="1668247830"/>
+    <nd ref="1668255978"/>
+    <nd ref="3749263124"/>
+    <nd ref="3747384712"/>
+    <nd ref="1668255973"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799703">
+    <nd ref="1439718353"/>
+    <nd ref="1439718330"/>
+    <nd ref="1439718308"/>
+    <nd ref="1439717868"/>
+    <nd ref="3749263929"/>
+    <nd ref="3747384713"/>
+    <nd ref="1439717850"/>
+    <nd ref="3747384709"/>
+    <nd ref="3749263121"/>
+    <nd ref="1439717776"/>
+    <nd ref="1439717537"/>
+    <nd ref="1439717531"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="45 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="131648488">
+    <nd ref="1448660833"/>
+    <nd ref="3751653177"/>
+    <nd ref="3751653210"/>
+    <nd ref="1448660848"/>
+    <nd ref="1448660855"/>
+    <nd ref="1448660863"/>
+    <nd ref="1448660864"/>
+    <nd ref="1448660865"/>
+    <nd ref="1448660860"/>
+    <nd ref="1448660852"/>
+    <nd ref="1448660845"/>
+    <nd ref="1448660835"/>
+    <nd ref="3751653209"/>
+    <nd ref="3751653176"/>
+    <nd ref="1448660831"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="372434929">
+    <nd ref="3759910380"/>
+    <nd ref="3759910381"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="372434931">
+    <nd ref="2837207759"/>
+    <nd ref="2837207760"/>
+    <nd ref="2837207761"/>
+    <nd ref="2837207762"/>
+    <nd ref="2837207763"/>
+    <nd ref="2837207764"/>
+    <nd ref="2837207765"/>
+    <nd ref="2837207766"/>
+    <nd ref="2837207767"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="279495021">
+    <nd ref="2837207757"/>
+    <nd ref="2837207758"/>
+    <nd ref="3759910378"/>
+    <nd ref="2837207759"/>
+    <nd ref="3759910383"/>
+    <nd ref="1439718332"/>
+    <nd ref="3759910380"/>
+    <nd ref="1439718375"/>
+    <nd ref="1439718412"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="377434517">
+    <nd ref="1439719052"/>
+    <nd ref="3808032792"/>
+    <nd ref="3808032793"/>
+    <nd ref="3808032794"/>
+    <nd ref="3808032795"/>
+    <nd ref="1439718721"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="130799958">
+    <nd ref="1439718991"/>
+    <nd ref="3979894359"/>
+    <nd ref="1439718863"/>
+    <nd ref="1439718833"/>
+    <nd ref="1439718703"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="402934517">
+    <nd ref="895492317"/>
+    <nd ref="4053327825"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="402934518">
+    <nd ref="4053327825"/>
+    <nd ref="895492319"/>
+    <nd ref="895492322"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824700">
+    <nd ref="4141536089"/>
+    <nd ref="4141535385"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824701">
+    <nd ref="86841216"/>
+    <nd ref="4141535388"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824702">
+    <nd ref="4141535388"/>
+    <nd ref="4141536092"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824703">
+    <nd ref="4141535385"/>
+    <nd ref="1135676865"/>
+    <nd ref="895492309"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824704">
+    <nd ref="812699847"/>
+    <nd ref="4141536090"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824705">
+    <nd ref="4141536091"/>
+    <nd ref="86841218"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824706">
+    <nd ref="4141535387"/>
+    <nd ref="4141536091"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="412824707">
+    <nd ref="4141536090"/>
+    <nd ref="4141535386"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="75 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="415101550">
+    <nd ref="4161763372"/>
+    <nd ref="1668213940"/>
+    <nd ref="2837177967"/>
+    <nd ref="2837177964"/>
+    <nd ref="2837177970"/>
+    <nd ref="1439718417"/>
+    <nd ref="1668213942"/>
+    <nd ref="1726825995"/>
+    <nd ref="1668213943"/>
+    <nd ref="2837198969"/>
+    <nd ref="1668213941"/>
+    <nd ref="2837144631"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+  <way id="415101555">
+    <nd ref="4161763373"/>
+    <nd ref="4161763372"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="minspeed" v="0 mph"/>
+  </way>
+</osm>
